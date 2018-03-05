@@ -1,0 +1,24 @@
+.contenido{
+  background: black;
+  display: flex;
+  height: 900px;
+  justify-content:center;
+  align-items:right;
+
+}
+.encabezado1 {
+
+  background-color: #5b7989;
+  border-radius: 10px 10px 0px 0px;
+  color: white;
+}
+header{
+  display: flex;
+}
+
+.encabezado1 h1{
+  text-shadow: 2px 2px #02010a;
+}
+a:link,a:visited{
+  color:white;
+}
